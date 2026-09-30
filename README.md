@@ -20,7 +20,7 @@ PROVENANCE
 DETERMINATION
      ↓
 TRACE
-
+```
 
 ## Research Notes
 
